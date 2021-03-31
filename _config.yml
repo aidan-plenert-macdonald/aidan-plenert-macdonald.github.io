@@ -16,7 +16,7 @@
 title: Aidan Macdonald
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  When I write code, I write a lot of tests
+  Working in the clouds
 github_username: aidan-plenert-macdonald
 minimal_mistakes_skin: default
 search: true
@@ -43,8 +43,8 @@ plugins:
 
 author:
   name   : "Aidan Macdonald"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Working in the clouds"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
